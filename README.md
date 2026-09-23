@@ -20,4 +20,3 @@ Built an end-to-end recruitment analytics solution analyzing 100+ candidates to 
 - SQL_queries.sql + Screenshots
 - Dashboard.pbix
 
-Open to HR Analytics roles!
